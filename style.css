@@ -1,0 +1,12 @@
+tr{
+    background-color: #E29578;
+}
+td{
+    background-color: whitesmoke;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
